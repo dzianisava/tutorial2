@@ -24,8 +24,11 @@ You will add a map display to one of the tabs in your app and geolocate an addre
 1. You will be using the Google Static Maps API. For more information on this API, visit the [API Documentation Page](https://developers.google.com/maps/documentation/static-maps/intro).
 
     The Static Maps API returns an image that you can display in a HTML image tag.   
+
 [DONE]
 [ACCORDION-END]
+
+
 
 [ACCORDION-BEGIN [STEP 2](Update the Map Fragment view)]
 2. You will need an `Image` element in your view to hold the image graphic returned from the Google API. You will add it to the Map `Fragment` file (which is displayed when you click on the Map tab). You will add the code to the `SimpleForm` created in the previous step. The new code should be placed after the last form element, as indicated by the red arrow.
@@ -54,8 +57,11 @@ You will add a map display to one of the tabs in your app and geolocate an addre
     Your final code should look like the screenshot below.
 
     ![image of final code for XML fragment](xml-view-final-code.png)
+
 [DONE]
 [ACCORDION-END]
+
+
 
 [ACCORDION-BEGIN [STEP 3](Update the Formatter JavaScript)]
 3. You need to update your model `formatter.js` to include a new function call for the Google Static Maps API. In the `model` folder, open your `formatter.js` file. You will be adding a new function to the return of this function.
@@ -85,15 +91,21 @@ You will add a map display to one of the tabs in your app and geolocate an addre
     Your final code should look like the screenshot below.
 
     ![image of final code for Formatter js model ](js-model-final-code.png)
+
 [DONE]
 [ACCORDION-END]
+
+
 
 [ACCORDION-BEGIN [STEP 4](Run your application)]
 4. Run your app. When you click on an item for more details, your page should look like the image below.
 
     ![Sample of the map from the Google Static Maps API Call](map-output.png)
+
 [DONE]
 [ACCORDION-END]
+
+
 
 ### Optional
 Follow the below steps to make your map more unique.
@@ -115,8 +127,11 @@ Follow the below steps to make your map more unique.
     ```
 
     The `feature` indicates that you want to update the highways. The `element` indicates that you want to change the styling of the geometry on the highways. And the `color` indicates which color the geometry of the highways should display as.
+
 [DONE]
 [ACCORDION-END]
+
+
 
 ## Next Steps
  - Translate your app into multiple languages
