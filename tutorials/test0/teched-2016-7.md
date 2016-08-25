@@ -25,7 +25,7 @@ You will add a map display to one of the tabs in your app and geolocate an addre
 
     The Static Maps API returns an image that you can display in a HTML image tag.   
 
-[DONE]
+[VALIDATE_1]
 [ACCORDION-END]
 
 
@@ -92,7 +92,7 @@ You will add a map display to one of the tabs in your app and geolocate an addre
 
     ![image of final code for Formatter js model ](js-model-final-code.png)
 
-[DONE]
+[VALIDATE_2]
 [ACCORDION-END]
 
 
