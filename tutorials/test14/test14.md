@@ -57,7 +57,6 @@ You will add a map display to one of the tabs in your app and geolocate an addre
     ![image of final code for XML fragment](xml-view-final-code.png)
 
 [VALIDATE_1]
-
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [STEP 3](Update the Formatter JavaScript)]
@@ -90,7 +89,6 @@ You will add a map display to one of the tabs in your app and geolocate an addre
     ![image of final code for Formatter js model ](js-model-final-code.png)
 
 [VALIDATE_2]
-
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [STEP 4](Run your application)]
