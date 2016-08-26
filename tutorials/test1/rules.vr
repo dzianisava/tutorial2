@@ -1,6 +1,4 @@
-[STEP 1]
-
-[VALIDATE 1]
+[VALIDATE_1]
 ###Rule
 regex-substring
 
@@ -13,10 +11,8 @@ street
 PostalCode
 City
 
-[STEP 1 - END]
-[STEP 2]
 
-[VALIDATE 2]
+[VALIDATE_2]
 
 ###Rule
 exact-match
@@ -27,4 +23,4 @@ How many pixels wide will the returned map image be?
 ###Match
 400
 
-[STEP 2 - END]
+
