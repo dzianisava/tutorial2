@@ -7,6 +7,7 @@ What is the capital of New York?
 
 ###Match
 Albany
+[VALIDATE 1]
 [VALIDATE 2]
 ###Rule
 exact-match
@@ -16,3 +17,4 @@ exact-match
 
 ###Match
 31
+[VALIDATE 2]
