@@ -10,7 +10,7 @@ Building
 street
 PostalCode
 City
-
+[VALIDATE_1]
 
 [VALIDATE_2]
 
@@ -22,3 +22,4 @@ How many pixels wide will the returned map image be?
 
 ###Match
 400
+[VALIDATE_2]
