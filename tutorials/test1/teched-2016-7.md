@@ -1,5 +1,5 @@
 ---
-title: Add a map display to your app
+title: Test validation
 description: Add a map to your app and geolocate a street address
 tags: [  tutorial>beginner, topic>sapui5, products>sap-hana-cloud-platform, products>sap-web-ide ]
 ---
